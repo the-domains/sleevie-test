@@ -4,14 +4,14 @@
         <description><![CDATA[sleevie test]]></description>
         <link>https://thegrid.ai/sleevie-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 19:28:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2016 19:33:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sleevie-test/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[testheadline]]></title>
-            <description><![CDATA[<article><h1>testheadline</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8208192d02c06a880a93d5ec58d14c03b4ab9ace.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>testheadline</h1><p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8208192d02c06a880a93d5ec58d14c03b4ab9ace.jpg"></article>]]></description>
             <link>https://thegrid.ai/sleevie-test/testheadline/index.html</link>
             <guid isPermaLink="false">82011bab-a7fa-4022-8f6b-4f80cb0018c2</guid>
-            <pubDate>Sat, 23 Jan 2016 19:21:45 GMT</pubDate>
+            <pubDate>Sat, 23 Jan 2016 19:33:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Produkt 1]]></title>
