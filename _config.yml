@@ -1,0 +1,28 @@
+name: sleevie test
+favicon: null
+layout_spectrum: 0.884002739097923
+typography_spectrum: 0.5106082670390606
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5290597197599709
+  lightness: 0.522984609939158
+  saturation: 0.5562293231487274
+  rhythmicContrast: 0.11172328144311905
+purpose: []
