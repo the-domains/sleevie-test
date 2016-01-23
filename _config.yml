@@ -1,6 +1,6 @@
 name: sleevie test
 favicon: null
-layout_spectrum: 0.884002739097923
+layout_spectrum: 0.65825
 typography_spectrum: 0.5106082670390606
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.5290597197599709
-  lightness: 0.522984609939158
-  saturation: 0.5562293231487274
+  brandStrength: 1
+  lightness: 1
+  saturation: 1
   rhythmicContrast: 0.11172328144311905
 purpose: []
