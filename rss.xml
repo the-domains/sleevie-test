@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[sleevie test]]></title>
         <description><![CDATA[sleevie test]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sleevie-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 19:21:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Jan 2016 19:28:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sleevie-test/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[testheadline]]></title>
             <description><![CDATA[<article><h1>testheadline</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8208192d02c06a880a93d5ec58d14c03b4ab9ace.jpg"></article>]]></description>
-            <link>undefinedtestheadline/index.html</link>
+            <link>https://thegrid.ai/sleevie-test/testheadline/index.html</link>
             <guid isPermaLink="false">82011bab-a7fa-4022-8f6b-4f80cb0018c2</guid>
             <pubDate>Sat, 23 Jan 2016 19:21:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Produkt 1]]></title>
+            <description><![CDATA[<article><h1>Produkt 1</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e959165317677144d1bd2b5a804ddd00df6133bc.jpg"></article>]]></description>
+            <link>https://thegrid.ai/sleevie-test/produkt-1/index.html</link>
+            <guid isPermaLink="false">56a0f6a0-aec2-4b4c-bd79-209e1b9368e1</guid>
+            <pubDate>Sat, 23 Jan 2016 19:28:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
